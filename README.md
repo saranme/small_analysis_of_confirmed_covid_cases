@@ -1,7 +1,7 @@
 # Small analysis of confirmed covid cases
 Small analysis of confirmed Covid cases from Systematic dataset of Covid-19 policy, from Oxford University
 
-# Data wrangling
+## Data wrangling
 
 Selection and explanation of the relevant variables for the study
 
@@ -47,7 +47,7 @@ Data cleansing
 * Union of *The Oxford Covid-19 Government Response Tracker (OxCGRT) dataset* with the rest of the dataset gives rise to the final dataframe:
     * variables country, date, school closure policy, confirmed cases, HDI categories and population.
 
-# Data Analysis
+## Data Analysis
 Object of study:
 * Which countries have a higher increase in Covid cases per month?
 * Which countries have experienced more cases of Covid in relation to the population of each country?
